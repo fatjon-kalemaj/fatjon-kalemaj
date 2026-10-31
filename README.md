@@ -1,6 +1,6 @@
 # Fatjon (Tony) Kalemaj
 
-Applied AI · I design Claude-based systems for private equity and hedge funds,
+Applied AI | I design Claude-based systems for private equity and hedge funds,
 and I measure whether they work.
 
 Applied AI Lead at [By The People](https://bythepeople.tech), New York.
