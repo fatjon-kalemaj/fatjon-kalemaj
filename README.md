@@ -10,7 +10,7 @@ evals, failure modes, cost, and getting a team to trust the output.
 
 ## Featured
 
-Four repos, one theme: AI systems a company can measure, govern and trust.
+Five repos, one theme: AI systems a company can measure, govern and trust.
 
 **[alt-invest-agent-evals](https://github.com/fatjon-kalemaj/alt-invest-agent-evals)** · *measure*
 A Claude agent that screens private equity deal documents, and the eval harness
@@ -35,9 +35,11 @@ A Claude Code plugin that maps a codebase into a knowledge graph with Graphify
 and presents it at four levels: executive overview, service map, scenario
 walkthrough and code.
 
-<!-- Add when public:
-**commonplace** · *remember* — company records into a linked local Obsidian vault
--->
+**[commonplace](https://github.com/fatjon-kalemaj/commonplace)** · *remember*
+Turns the records a company produces (meeting transcripts, email, Notion pages,
+Claude Code sessions) into a local Obsidian vault where people, companies,
+projects and decisions link to each other. Read-only connectors, and the vault
+never leaves the machine.
 
 ## How I work
 
